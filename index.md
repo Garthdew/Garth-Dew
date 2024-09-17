@@ -1,5 +1,5 @@
 ---
-title: Garth Dew Test
+title: Home
 ---
 
 Welcome to my test site
