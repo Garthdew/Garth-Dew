@@ -5,7 +5,7 @@ description: >
   Write an awesome description for your new site here. You can edit this line
   in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description. 
-Skin: Classic
+Skin: dark
 # Generate social links in footer.
   #social_links:
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
